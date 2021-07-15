@@ -1,5 +1,7 @@
-## [Project 1](https://github.com/Johnymcjohn/UsedCarPriceLinearRegression)
-<embed src="https://github.com/Johnymcjohn/UsedCarPriceLinearRegression/blob/main/UsedCarPriceLinearRegression.pdf" type="application/pdf" />
+# My Projects
+### [Used Car Price Prediction: Linear Regression](https://github.com/Johnymcjohn/UsedCarPriceLinearRegression)
+### [Simple Logistic Regression](https://htmlpreview.github.io/?https://github.com/Johnymcjohn/LeagueOfLegendsMatchMLAnalysis/blob/main/LogisticRegressionLOLPrediction.html)
+
 
 ### Markdown
 
@@ -32,3 +34,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+Helpful links https://htmlpreview.github.io/
