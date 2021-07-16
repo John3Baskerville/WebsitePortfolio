@@ -6,6 +6,7 @@ In this project I expriment with clustering algorithms to separate my personal s
 - [Spotify Song Clustering](https://johnymcjohn.github.io/SpotifyClustering/)
 
 ### Predicting the winning team of a League of Legends match
+I use data from 10,000 matches and identify important featues as well as develope models to predict the winning team of the match after 10 minutes play time.
 - [Simple Logistic Regression: League of Legends matches](https://htmlpreview.github.io/?https://github.com/Johnymcjohn/LeagueOfLegendsMatchMLAnalysis/blob/main/LogisticRegressionLOLPrediction.html)
 - [Neurel Network Prediction Model](https://htmlpreview.github.io/?https://github.com/Johnymcjohn/LeagueOfLegendsMatchMLAnalysis/blob/main/LOLMLPrediction%20.html)
 
@@ -13,4 +14,5 @@ In this project I expriment with clustering algorithms to separate my personal s
 - [Used Car Price Prediction: Linear Regression](https://github.com/Johnymcjohn/UsedCarPriceLinearRegression)
 
 ### NYC Taxi Service: tip percentage prediction
+Use public NYC Taxi and Limousine Commission data to help drivers forcast average tip amount for fares starting at NYC airports.
 - [NYC Taxi Tip Percentage prediction](https://htmlpreview.github.io/?https://github.com/Johnymcjohn/NYC-TLC-Tip-Percentage-Prediction/blob/main/Tip%20Percent%20NN%20and%20Regression.html)
