@@ -1,8 +1,6 @@
 # John Baskerville Data Analytics Portfolio
 
 ## [Spotify Song Clustering](https://johnymcjohn.github.io/SpotifyClustering/)
-(https://htmlpreview.github.io/?https://github.com/Johnymcjohn/SpotifyClustering/blob/main/Unsupervised%20Learning%20Project%20-%20Final%20(1).html)
-
 In this project I expriment with clustering algorithms to separate my personal spotify library into playlists.
 
 ### Predicting the winning team of a League of Legends match
