@@ -14,9 +14,3 @@ In this project I expriment with clustering algorithms to separate my personal s
 
 ### NYC Taxi Service: tip percentage prediction
 - [NYC Taxi Tip Percentage prediction](https://htmlpreview.github.io/?https://github.com/Johnymcjohn/NYC-TLC-Tip-Percentage-Prediction/blob/main/Tip%20Percent%20NN%20and%20Regression.html)
-
-
-Helpful links https://htmlpreview.github.io/
-```
-[Link](url) and ![Image](src)
-```
