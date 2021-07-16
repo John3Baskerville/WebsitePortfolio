@@ -16,3 +16,5 @@ I use data from 10,000 matches and identify important featues as well as develop
 ### NYC Taxi Service: tip percentage prediction
 Use public NYC Taxi and Limousine Commission data to help drivers forcast average tip amount for fares starting at NYC airports.
 - [NYC Taxi Tip Percentage prediction](https://htmlpreview.github.io/?https://github.com/John3Baskerville/NYC-TLC-Tip-Percentage-Prediction/blob/main/Tip%20Percent%20NN%20and%20Regression.html)
+
+<u>Contact:</u>
