@@ -18,6 +18,12 @@ Use public NYC Taxi and Limousine Commission data to help drivers forcast averag
 - [NYC Taxi Tip Percentage prediction](https://htmlpreview.github.io/?https://github.com/John3Baskerville/NYC-TLC-Tip-Percentage-Prediction/blob/main/Tip%20Percent%20NN%20and%20Regression.html)
 
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 <table border="0" cellspacing="0" cellpadding="0">
  <tr>
     <td><b style="font-size:30px">Contact</b></td>
@@ -36,9 +42,3 @@ Use public NYC Taxi and Limousine Commission data to help drivers forcast averag
    </td>
  </tr>
 </table>
-
-
-	| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
