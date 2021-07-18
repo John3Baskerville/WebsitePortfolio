@@ -19,7 +19,7 @@ Use public NYC Taxi and Limousine Commission data to help drivers forcast averag
 
 
 <style>
-td, th {
+td, th, table {
    border: none!important;
 }
 </style>
