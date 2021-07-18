@@ -24,7 +24,7 @@ td, th {
 }
 </style>
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table>
  <tr>
     <td><b style="font-size:30px">Contact</b></td>
     <td><b style="font-size:30px">Links</b></td>
