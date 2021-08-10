@@ -1,8 +1,9 @@
 # John Baskerville Data Analytics Portfolio
 
 ### Spotify Song Clustering
-Can I use machine learning to create playlists using songs from my personal spotify library?  
-In this project I expriment with clustering algorithms to separate my personal spotify library into manageable and meaningful playlists. Spotify assigns each song with 13 calculated [audio features](https://developer.spotify.com/discover/) which I use for attributes when modling. I use [spotipy](https://spotipy.readthedocs.io/en/2.18.0/), a lightweight Python library for the Spotify Web API," to collect the my personal data.  and I chosee the 10 that I thought would help me most with clustering:
+**Can I use machine learning to create playlists using songs from my personal spotify library?**  
+
+In this project I expriment with clustering algorithms to separate my personal spotify library into manageable and meaningful playlists. Spotify assigns each song with 13 calculated [audio features](https://developer.spotify.com/discover/) which I use for attributes when modling. I use [spotipy](https://spotipy.readthedocs.io/en/2.18.0/), a lightweight Python library for the Spotify Web API to collect the my personal data.
 
 - [Spotify Song Clustering](https://john3baskerville.github.io/SpotifyClustering/)
 
