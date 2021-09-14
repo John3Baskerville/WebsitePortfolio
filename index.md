@@ -12,7 +12,7 @@ In this project I expriment with clustering algorithms to separate my personal s
 
 I use the clusters generated from the Spotify Song Clustering project above as source data for a NLP model which uses the song names as training data.
 
-- [Topic Generation (NLP)](https://john3baskerville.github.io/SpotifyClustering/)
+- [Topic Generation (NLP)](https://github.com/John3Baskerville/SpotifyClustering/blob/main/Juypter%20Notebooks/NLP%20Topic%20Generation%20Spotify%20Songs.ipynb)
 
 ### Predicting the winning team of a League of Legends match
 I use data from 10,000 matches and identify important featues as well as develope models to predict the winning team of the match after 10 minutes play time.
