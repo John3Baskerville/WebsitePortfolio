@@ -5,7 +5,14 @@
 
 In this project I expriment with clustering algorithms to separate my personal spotify library into manageable and meaningful playlists. Spotify assigns each song with 13 calculated [audio features](https://developer.spotify.com/discover/) which I use for attributes when modling. I use [spotipy](https://spotipy.readthedocs.io/en/2.18.0/), a lightweight Python library for the Spotify Web API to collect the my personal data.
 
-- [Spotify Song Clustering](https://john3baskerville.github.io/SpotifyClustering/)
+- [Spotify Song Clustering](https://github.com/John3Baskerville/SpotifyClustering/blob/main/Juypter%20Notebooks/SpotifyClustering2.ipynb)
+
+### Naming playlists using song names. 
+**Use the song names from each playlist to generate a topic or playlist name**
+
+I use the clusters generated from the Spotify Song Clustering project above as source data for a NLP model which uses the song names as training data.
+
+- [Topic Generation (NLP)](https://john3baskerville.github.io/SpotifyClustering/)
 
 ### Predicting the winning team of a League of Legends match
 I use data from 10,000 matches and identify important featues as well as develope models to predict the winning team of the match after 10 minutes play time.
