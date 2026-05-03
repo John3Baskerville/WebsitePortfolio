@@ -1,4 +1,4 @@
-# John Baskerville Data Analytics Portfolio
+# John Baskerville Data Science Portfolio
 
 ### Spotify Song Clustering
 **Can I use machine learning to create playlists using attributes from songs in my personal spotify library?**  
