@@ -2,7 +2,7 @@
 /* ── Fixed left sidebar navigation ── */
 .quick-nav {
   position: fixed;
-  left: 1rem;
+  left: max(1rem, calc((100vw - 74rem - 300px) / 4));
   top: 50%;
   transform: translateY(-50%);
   width: 150px;
@@ -33,7 +33,27 @@
 .quick-nav a:last-child { border-bottom: none; }
 .quick-nav a:hover { color: #0d6840; text-decoration: underline; }
 /* Only show sidebar when there's room beside the content area */
-@media (max-width: 1440px) { .quick-nav { display: none; } }
+@media (max-width: 1600px) { .quick-nav { display: none; } }
+
+/* ── Widen Jekyll Cayman content column ── */
+.main-content { max-width: 74rem !important; }
+
+/* ── Contact row ── */
+.contact-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.6rem;
+  align-items: center;
+  margin-top: 0.6rem;
+}
+.contact-row a,
+.contact-row span {
+  white-space: nowrap;
+  font-size: 0.92rem;
+  color: #159957;
+  text-decoration: none;
+}
+.contact-row a:hover { text-decoration: underline; }
 
 /* ── Profile photo ── */
 .profile-wrap {
@@ -77,18 +97,24 @@
 
 ## About Me
 
-<!-- Profile photo — replace assets/profile.jpg with your own image to display it -->
+<!-- Profile photo -->
 <div class="profile-wrap">
-  <img src="assets/profile.jpg" alt="John Baskerville" class="profile-pic"
+  <img src="assets/profile.png" alt="John Baskerville" class="profile-pic"
        onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
   <div class="profile-placeholder" style="display: none;">
-    Add photo:<br><em>assets/profile.jpg</em>
+    Add photo:<br><em>assets/profile.png</em>
   </div>
 </div>
 
 I'm a data scientist with hands-on experience building end-to-end machine learning pipelines — from raw data exploration through model deployment. My projects span clustering, regression, neural networks, and NLP, with a focus on finding practical, explainable insights from real-world datasets.
 
-📧 [john3baskerville@gmail.com](mailto:john3baskerville@gmail.com) &nbsp;|&nbsp; 📞 717-701-7793 &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/john-baskerville/) &nbsp;|&nbsp; [GitHub](https://github.com/John3Baskerville) &nbsp;|&nbsp; [HackerRank](https://www.hackerrank.com/john3baskerville)
+<div class="contact-row">
+  <a href="mailto:john3baskerville@gmail.com">📧 john3baskerville@gmail.com</a>
+  <span>📞 717-701-7793</span>
+  <a href="https://www.linkedin.com/in/john-baskerville/">LinkedIn</a>
+  <a href="https://github.com/John3Baskerville">GitHub</a>
+  <a href="https://www.hackerrank.com/john3baskerville">HackerRank</a>
+</div>
 
 ---
 
