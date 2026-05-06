@@ -158,11 +158,3 @@ Trained a linear regression model to predict used car prices from vehicle attrib
 
 [View Project →](https://github.com/John3Baskerville/UsedCarPriceLinearRegression)
 
----
-
-### NYC Taxi Tip Prediction
-**Regression · Neural Networks · Python · Public Dataset**
-
-Analyzed NYC Taxi and Limousine Commission trip data to help drivers forecast tip percentages for airport pickups. Built and compared regression and neural network models, identifying the fare and trip features most predictive of tip behavior.
-
-[View Notebook →](https://htmlpreview.github.io/?https://github.com/John3Baskerville/NYC-TLC-Tip-Percentage-Prediction/blob/main/Tip%20Percent%20NN%20and%20Regression.html)
