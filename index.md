@@ -91,8 +91,6 @@
   <a href="#spotify-song-clustering">Spotify Clustering</a>
   <a href="#playlist-name-generation-with-nlp">NLP Playlists</a>
   <a href="#league-of-legends-match-outcome-prediction">League of Legends</a>
-  <a href="#used-car-price-prediction">Used Car Prices</a>
-  <a href="#nyc-taxi-tip-prediction">NYC Taxi Tips</a>
 </div>
 
 ## About Me
