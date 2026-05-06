@@ -134,20 +134,11 @@ I'm a data scientist with hands-on experience building end-to-end machine learni
 ### Spotify Song Clustering
 **Unsupervised ML · Clustering · Spotify API · Python**
 
-Built a clustering pipeline on my personal Spotify library to automatically group songs into playlists — without any manual labeling. Spotify exposes 13 quantitative [audio features](https://developer.spotify.com/discover/) per track (energy, valence, tempo, etc.); I used these as model inputs, evaluated multiple `k` values, and validated cluster quality with feature profiles (heatmaps) and violin plots that describe the generated playlists themes.
+Built a clustering pipeline on my personal Spotify library to automatically group songs into playlists — without any manual labeling. Spotify exposes 13 quantitative [audio features](https://developer.spotify.com/discover/) per track (energy, valence, tempo, etc.); I used these as model inputs and validated cluster quality with feature profiles (heatmaps) and violin plots that describe the generated playlists themes.
 
 **Key takeaway:** The model surfaced musically coherent groupings that aligned well with my own listening intuition, demonstrating that unsupervised methods can learn meaningful structure from audio feature spaces.
 
 [View Project →](https://john3baskerville.github.io/SpotifyClustering/)
-
----
-
-### Playlist Name Generation with NLP
-**NLP · Topic Modeling · Python**
-
-Extended the clustering project above by treating each cluster's song titles as a text corpus and applying topic modeling to generate a descriptive name for each playlist. This closes the loop on the end-to-end pipeline: raw audio features → clusters → human-readable playlist labels.
-
-[View Notebook →](https://github.com/John3Baskerville/SpotifyClustering/blob/main/Juypter%20Notebooks/NLP%20Topic%20Generation%20Spotify%20Songs.ipynb)
 
 ---
 
